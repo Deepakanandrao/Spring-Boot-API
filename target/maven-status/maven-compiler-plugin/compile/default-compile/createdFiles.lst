@@ -1,0 +1,9 @@
+com/itsy/UserRepository.class
+com/itsy/ui/model/response/NewUserResponseModel.class
+com/itsy/ui/model/requests/NewUserModel.class
+com/itsy/service/impl/UserServiceImpl.class
+com/itsy/service/UserService.class
+com/itsy/ui/controllers/UserController.class
+com/itsy/DemoApplication.class
+com/itsy/io/entity/NewUserEntity.class
+com/itsy/middleware/NewUserDTO.class
